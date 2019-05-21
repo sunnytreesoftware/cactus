@@ -1,3 +1,3 @@
 # Laravel Financial Calculators
-Laravel - Efficient and Useful jQuery Business Finance Calculators
+Created for Laravel - Efficient and Useful jQuery Business Finance Calculators
 
