@@ -10,11 +10,11 @@
     <meta name="author" content="mikestratton.net">
     <title>jQuery Financial Calculators</title>
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.css" type="text/css" rel="stylesheet">
+    <link href="assets/calculators/html/css/bootstrap.css" type="text/css" rel="stylesheet">
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <link href="css/ie10-viewport-bug-workaround.css" type="text/css" rel="stylesheet">
+    <link href="assets/calculators/html/css/ie10-viewport-bug-workaround.css" type="text/css" rel="stylesheet">
     <!-- Custom styles for this template -->
-    <link href="css/grid.css" type="text/css" rel="stylesheet">
+    <link href="assets/calculators/html/css/grid.css" type="text/css" rel="stylesheet">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -35,49 +35,49 @@
 
         <div class="row">
             <div class="col-md-4">
-                <iframe src="current-ratio.html"></iframe>
+                <iframe src="/assets/calculators/html/current-ratio.html"></iframe>
 
             </div>
 
             <div class="col-md-4">
-                <iframe src="quick-ratio.html"></iframe>
+                <iframe src="assets/calculators/html/quick-ratio.html"></iframe>
             </div>
             <div class="col-md-4">
-                <iframe src="gross-profit-margin.html"></iframe>
-            </div>
-        </div>
-
-        <div class="row">
-            <div class="col-md-4">
-                <iframe src="loan-payment.html"></iframe>
-            </div>
-
-            <div class="col-md-4">
-                <iframe src="operating-profit-percentage.html"></iframe>
-            </div>
-
-            <div class="col-md-4">
-                <iframe src="debt-to-assets.html"></iframe>
+                <iframe src="assets/calculators/html/gross-profit-margin.html"></iframe>
             </div>
         </div>
 
         <div class="row">
             <div class="col-md-4">
-                <iframe src="return-on-assets.html"></iframe>
+                <iframe src="assets/calculators/html/loan-payment.html"></iframe>
             </div>
 
             <div class="col-md-4">
-              <iframe src="debt-to-equity.html"></iframe>
+                <iframe src="assets/calculators/html/operating-profit-percentage.html"></iframe>
             </div>
 
             <div class="col-md-4">
-              <iframe src="net-profit-margin.html"></iframe>
+                <iframe src="assets/calculators/html/debt-to-assets.html"></iframe>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+                <iframe src="assets/calculators/html/return-on-assets.html"></iframe>
+            </div>
+
+            <div class="col-md-4">
+              <iframe src="assets/calculators/html/debt-to-equity.html"></iframe>
+            </div>
+
+            <div class="col-md-4">
+              <iframe src="assets/calculators/html/net-profit-margin.html"></iframe>
             </div>
         </div>
         
         <div class="row">
             <div class="col-md-4">
-                <iframe src="return-on-equity.html"></iframe>
+                <iframe src="assets/calculators/html/return-on-equity.html"></iframe>
             </div>
 
             <div class="col-md-4">
@@ -93,7 +93,7 @@
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="js/ie10-viewport-bug-workaround.js"></script>
     <!-- Calculators -->
-    <script type="text/javascript" src="js/script.js"></script>
+    <script type="text/javascript" src="assets/calculators/html/js/script.js"></script>
 </body>
 
 </html>
