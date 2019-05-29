@@ -14,7 +14,6 @@ class CactusServiceProvider extends ServiceProvider
     public function register()
     {
         $this->publishes([__DIR__.'/../publishable/assets' => public_path('assets')]);
-        $this->publishes([__DIR__.'/../publishable/app' => app_path()]);
         $this->publishes([__DIR__.'/../resources/views' => resource_path('views')]);
         $this->publishes([__DIR__.'/../routes' => base_path('routes')]);
     }
