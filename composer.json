@@ -8,5 +8,17 @@
             "email": "mike@mikestratton.net"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sunnytree\\Cactus\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Sunnytree\\Cactus\\CactusServiceProvider"
+            ]
+        }
+    }
 }
