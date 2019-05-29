@@ -6,7 +6,7 @@ class CactusController{
 
     public function cactus(){
 
-        return view('cactuswelcome::welcome');
+        return view('cactuswelcome::cactus');
 //        return 'hello acorn';
     }
 }
