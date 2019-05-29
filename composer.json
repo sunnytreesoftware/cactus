@@ -1,6 +1,6 @@
 {
     "name": "sunnytreesoftware/cactus",
-    "description": "Useful jQuery Financial Calculators packaged to use in your Laravel views.",
+    "description": "Useful jQuery Financial Calculators packaged as HTML to use in your Laravel views.",
     "license": "MIT",
     "authors": [
         {
